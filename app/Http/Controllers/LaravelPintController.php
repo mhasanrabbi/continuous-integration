@@ -2,7 +2,8 @@
 
 namespace App\Http\Controllers;
 
-class LaravelPintController {
+class LaravelPintController
+{
     public function index() {
 
     }
